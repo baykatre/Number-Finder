@@ -2,7 +2,7 @@
 
 Number Finder is a shell script to play numbers.
 
-[![Release](https://img.shields.io/github/release/tuist/shell.svg)](https://github.com/baykatre/Number-Finder/releases)
+[![Release](https://img.shields.io/github/release/baykatre/Number-Finder)](https://github.com/baykatre/Number-Finder/releases)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/baykatre/Number-Finder/blob/master/LICENSE)
 
 ## Özet / Abstract
@@ -25,7 +25,7 @@ A kind of Bash
 
 ## Authors
 
-- **Anıl Öztürk** - _Initial work_ - [PurpleBooth](https://github.com/baykatre)
+- **Anıl Öztürk** - _Software Developer_ - [GitHub](https://github.com/baykatre)
 
 ## License
 
