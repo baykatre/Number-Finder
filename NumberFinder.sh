@@ -1,3 +1,5 @@
+#!/usr/local/bin/bash
+
 
 #  NumberFinder.sh
 #  
@@ -5,8 +7,6 @@
 #  Created by Anıl Öztürk on 9.05.2020.
 #  
 
-
-#!/bin/bash
 . stack.sh
 . TextToNumber.sh
 . NumberToText.sh
