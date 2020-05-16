@@ -44,7 +44,7 @@ setEnglish(){
   arithmetic_operand2="Please enter operand2. (Max to million, include million)"
   from_number_to_text_text1="Please a number for translate to text. (Max to trillion, include trillion)"
   from_text_to_number_text1="Please a text for translate to number. (Max to trillion, include trillion)"
-  solve="Solve: "
+  solution="Solution: "
 }
 # findFirstDigit(){
 #       echo ${NUMBERS[$1]}
@@ -55,7 +55,7 @@ HUNDREDFLAG=0
 fromNumberToText(){ # Sayıdan yazıya çevirilecek sayıyı alan ve ilgili fonksiyona gönderen yer.
   echo $from_number_to_text_text1
   read -p "" number
-  echo -n $solve
+  echo -n $solution
   calculateDigit $number
   start
 }
