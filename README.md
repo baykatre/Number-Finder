@@ -9,7 +9,7 @@ Number Finder is a shell script to play numbers.
 
 Shell Programlama kullanılarak Türkçe ve İngilizce için sayıdan yazı ve yazıdan sayı dönüşümü yapabilen, ayrıca yazı olarak verilmiş iki sayı üzerinde toplama ve çıkarma işlemlerinin yapılabildiği bir Shell betiği.
 
-A Shell script that can convert numbers from text and text to Turkish and English using Shell Programming, plus addition and subtraction operations on two numbers given as text.
+A Shell script that can convert numbers from text and text to number using Shell Programming in Turkish and English, plus addition and subtraction operations on two numbers given as text.
 
 ### Prerequisites
 
