@@ -29,7 +29,7 @@ A kind of Bash
 
 ## Thanks
 
-[Bash Stack Implementation(https://gist.github.com/bmc/1323553) by [Brian Clapper](https://github.com/bmc)
+[Bash Stack Implementation](https://gist.github.com/bmc/1323553) by [Brian Clapper](https://github.com/bmc)
 
 ## License
 
