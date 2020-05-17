@@ -27,6 +27,10 @@ A kind of Bash
 
 - **Anıl Öztürk** - _Software Developer_ - [GitHub](https://github.com/baykatre)
 
+## Thanks
+
+[Bash Stack Implementation(https://gist.github.com/bmc/1323553) by [Brian Clapper](https://github.com/bmc)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/baykatre/Number-Finder/blob/master/LICENSE) file for details
